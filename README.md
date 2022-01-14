@@ -1,4 +1,4 @@
-# Difference-of-means-in-R
+# Difference-of-means
 First project of the master: Analysis of the sales average.
 
 
